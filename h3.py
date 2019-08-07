@@ -1,4 +1,4 @@
-n=int(input())
+num=int(input())
 ls=input().split(" ")
 ls=[int(num) for num in ls]
 final=[]
