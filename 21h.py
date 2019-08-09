@@ -1,7 +1,7 @@
 p,o=map(int,input().split())
 a=[]
 c1=[]
-for i in range(n):
+for i in range(p):
     li=[int(a) for ar in input().split()]
     a.append(li)
     if 0 in li:
